@@ -1,0 +1,10 @@
+Copied the requirements to my project requirements and installed them
+
+Created the costum_circuiteboard file and added it to generate_dataset_json
+
+Added code to the datasets.py
+        elif dataset_name == 'circuitboard':
+        obj_list = ['circuitboard']
+
+Uncomment the visualizer from the test.py
+

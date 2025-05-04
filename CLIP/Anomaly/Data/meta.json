@@ -1,0 +1,703 @@
+{
+    "train": {
+        "circuitboard": [
+            {
+                "img_path": "circuitboard/train/good/20250422_200351.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200352.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200352_aug11402c.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200352_aug34dca9.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200352_aug40de1e.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200352_aug858c87.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200352_augb16072.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200354.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200354_aug32a0a3.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200354_aug4c3661.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200354_aug4ee6a1.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200354_aug565878.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200354_aug7b5710.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200356.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200357.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200357_aug3183ca.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200357_aug38fb6b.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200357_aug917329.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200357_auge11da6.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200357_auge1eaf5.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200358.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200358_aug682b58.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200358_aug953621.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200358_aug97196c.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200358_augbe9663.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200358_augd3444d.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200359.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200400.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200400_aug0adf15.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200400_aug282ae7.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200400_aug5f4417.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200400_aug66b451.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200400_aug83445d.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200404.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200405.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200405_aug03b343.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200405_aug487372.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200405_aug9090c2.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200405_augc58d6b.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200405_augf10f3b.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200407.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200408.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200408_aug836b2e.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200408_aug86d806.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200408_aug950c72.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200408_augcb7887.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200408_augcd15c1.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200409.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200410.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200410_aug07fa6e.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200410_aug301b49.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200410_aug6a98ca.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200410_aug6b11d4.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200410_aug7797cd.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200411.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200411_aug080cb3.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200411_aug4149dd.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200411_aug7fb003.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200411_augc611bd.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200411_augd5dcec.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200412.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200412_aug2caad0.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200412_aug528bf3.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200412_aug5f69ae.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200412_aug7860fe.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200412_augd8ebbc.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200413.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200413_aug506c88.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200413_auga9acfc.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200413_augb92bb3.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200413_augc4dc8a.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200413_augfa1de1.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200415.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200415_aug070bdb.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200415_aug321452.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200415_aug374e39.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200415_aug8d3b11.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/train/good/20250422_200415_aug96a29e.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            }
+        ]
+    },
+    "test": {
+        "circuitboard": [
+            {
+                "img_path": "circuitboard/test/good/20250422_200412.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/test/good/20250422_200413.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/test/good/20250422_200415.jpg",
+                "mask_path": "",
+                "cls_name": "circuitboard",
+                "specie_name": "good",
+                "anomaly": 0
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200351.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200351_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200354.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200354_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200356.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200356_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200357.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200357_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200358.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200358_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200359.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200359_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200400.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200400_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200404.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200404_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200405.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200405_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200407.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200407_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200408.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200408_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200410.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200410_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200412.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200412_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200413.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200413_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_200415.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_200415_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_202535.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_202535_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250422_202624.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250422_202624_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            },
+            {
+                "img_path": "circuitboard/test/broken/20250504_190737.jpg",
+                "mask_path": "circuitboard/ground_truth/broken/20250504_190737_mask.png",
+                "cls_name": "circuitboard",
+                "specie_name": "broken",
+                "anomaly": 1
+            }
+        ]
+    }
+}
