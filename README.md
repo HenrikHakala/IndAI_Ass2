@@ -27,39 +27,29 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-ASSIGNMENT2/
-├── Augmenter/                       # Data augmentation notebooks
-│   └── Augmentation.ipynb
-├── CLIP/
-│   ├── Anomaly/                     # Anomaly detection using CLIP
-│   │   ├── checkpoints/            # Trained model checkpoints
-│   │   ├── Data/                   # Anomaly detection data
-│   │   ├── results/                # Output results
-│   │   ├── CLIP_Anomaly.ipynb     # Main anomaly detection notebook
-│   │   └── Edits.txt              # Notes or change log
-│   └── Similarity/                 # Similarity analysis with CLIP
-│       ├── CLIP.ipynb
-│       ├── fine_tuned_clip.pt
-│       └── fine_tuned_clip_last_layer.pt
-├── Dataset_Circuitboard/           # Original dataset
-├── Dataset_Circuitboard_augmented/# Augmented dataset
-├── Dataset_Circuitboard_labeled/  # Labeled dataset for classification
-├── Random images/                  # Sample images for testing
-├── Transformers/                   # Transformer-based experiments
-│   ├── circuitboard_classifier.pkl# Pretrained classifier model
-│   ├── image_similarity.ipynb     # Image similarity with transformers
-│   ├── Transfer_learning.ipynb    # Main notebook for transfer learning
-│   └── Transfer_learning_Test.ipynb# Exploratory notebook
-├── venv/                           # Python virtual environment
-├── requirements.txt                # Project dependencies
-└── README.md                       # Project documentation
+- `Transformers/` - Contains Jupyter notebooks and a model file for transformer-based experiments and similarity analysis.
+  - `Transfer_learning,ipynb` This is for circuitboard dataset
+  - `Transfer_learnign_Test.ipynb` This i only to familiaries with transfer learning
+  - `image_similarity.ipynb` This i only to familiaries with transfer learning
+
+- `AnomalyCLIP/` - Codebase for anomaly detection using CLIP, including training, testing, utilities, and results.
+  - Includes scripts (`train.py`, `test.py`, etc.), utility modules, and subfolders for results, assets, and checkpoints.
+
+- `CLIP/` - Contains submodules for anomaly detection and similarity analysis using CLIP.
+  - `Anomaly/`: Includes `CLIP_Anomaly.ipynb` and related data/results for anomaly detection.
+  - `Similarity/`: Includes `CLIP.ipynb` for similarity experiments.
+- `Dataset_Circuitboard/` - This is the origianl dataset
+- `Dataset_Circuitboard_augmented/` - This is the augmented dataset
+- `Dataset_Circuitboard_labeld/` - This dataset contains labels
+- `Random images/` - Example images (e.g., `house.jpeg`, `cat.webp`) for testing or demonstration.
+- `requirements.txt` - Python dependencies for the project.
 
 ## Features
-
 - Transformer-based experiments and similarity analysis
 - Anomaly detection using CLIP
 - Jupyter notebooks for interactive exploration
 - Pretrained model and checkpoints included
 - Dataset for circuit board classification and anomaly detection 
 
-All the ipynb should be runnable except the anomaly one. This needs the terminal commands to be runnable. One can simply follow the order of the CLIP\Anomaly\CLIP_Anomaly.ipynb
+## Usage
+- All python notebooks should be runnable, except `CLIP_Anomaly.ipynb` this one need the therminal commands to be run first. The commands are listed inside the notebook
