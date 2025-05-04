@@ -1,0 +1,49 @@
+# === Core Environment ===
+Flask
+python-dotenv
+pytest
+setuptools
+tabulate
+dash-table
+
+# === Scientific & ML Stack ===
+numpy<=2
+scipy>=1.11.2
+pandas>=2.1.3
+scikit-learn>=1.3.2
+matplotlib
+seaborn
+pillow
+tqdm
+
+# === Deep Learning ===
+torch
+torchvision
+torchaudio
+torchsummary
+thop
+timm
+tensorflow
+jax>=0.4.20
+jaxlib>=0.4.20
+
+# === Hugging Face Ecosystem ===
+transformers
+ftfy
+datasets
+regex
+
+# === Computer Vision & Visualization ===
+umap-learn
+scikit-image>=0.22 --only-binary :all:
+opencv-python
+
+# === Interface Tools ===
+gradio
+ipywidgets
+
+# === FastAI ===
+fastai
+
+# === Optional ANN Search Backend ===
+faiss-cpu
